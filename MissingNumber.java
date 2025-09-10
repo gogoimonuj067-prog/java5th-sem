@@ -10,7 +10,7 @@ public class MissingNumber {
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 5, 6};
         int missing = findMissingNumber(arr, 6);
-        System.out.println("Missing Number: " + missing); // Output: 3
+        System.out.println("Missing Number: " + missing); 
     }
 }
 
